@@ -18,6 +18,7 @@ public class JavaApplication12 {
         // TODO code application logic here
         
         // Hello World :)
+        //testi testi testi
         //testi testi
     }
     
